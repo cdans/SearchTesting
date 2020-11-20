@@ -1,0 +1,152 @@
+1605189960545	geckodriver	INFO	Listening on 127.0.0.1:39119
+1605189961533	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesUI9yO"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605189982366	Marionette	INFO	Listening on port 36847
+1605189982457	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605190145815	geckodriver	INFO	Listening on 127.0.0.1:39551
+1605190146822	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSQVFEN"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605795263121	geckodriver	INFO	Listening on 127.0.0.1:34783
+1605795264124	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezieUhK"
+Starting X
+.....5.. 4.. 3.. 2.. 1.. console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605795305907	Marionette	INFO	Listening on port 44039
+1605795306040	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.flaschenpost.de/js/fp.bundle.min.js?v=DUrTZlNA_ruv0APTSypBQZO0_ZX52DzLz-oSHGrd3U4, line 1: ReferenceError: dayjs is not defined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+1605795531436	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1605795640197	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1605795644498	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1605795683952	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1605796453588	geckodriver	INFO	Listening on 127.0.0.1:36009
+1605796454597	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWiZOiE"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605796471643	Marionette	INFO	Listening on port 45257
+1605796471739	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.flaschenpost.de/js/fp.bundle.min.js?v=DUrTZlNA_ruv0APTSypBQZO0_ZX52DzLz-oSHGrd3U4, line 1: ReferenceError: dayjs is not defined
+1605796476051	Marionette	INFO	Stopped listening on port 45257
+1605796555319	geckodriver	INFO	Listening on 127.0.0.1:58841
+1605796555336	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePF1pvi"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605796579538	Marionette	INFO	Listening on port 35791
+1605796579646	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.flaschenpost.de/js/fp.bundle.min.js?v=DUrTZlNA_ruv0APTSypBQZO0_ZX52DzLz-oSHGrd3U4, line 1: ReferenceError: dayjs is not defined
+1605796593649	Marionette	INFO	Stopped listening on port 35791
+1605796664575	geckodriver	INFO	Listening on 127.0.0.1:45425
+1605796664732	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBO2K0o"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605796686378	Marionette	INFO	Listening on port 43733
+1605796686446	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.flaschenpost.de/js/fp.bundle.min.js?v=DUrTZlNA_ruv0APTSypBQZO0_ZX52DzLz-oSHGrd3U4, line 1: ReferenceError: dayjs is not defined
+1605796696681	Marionette	INFO	Stopped listening on port 43733
+1605796948761	geckodriver	INFO	Listening on 127.0.0.1:34245
+1605796948799	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJZkWeD"
+1605796957908	geckodriver	INFO	Listening on 127.0.0.1:55787
+1605796958919	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileY5rS9w"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605796985916	Marionette	INFO	Listening on port 42059
+1605796986643	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.flaschenpost.de/js/fp.bundle.min.js?v=DUrTZlNA_ruv0APTSypBQZO0_ZX52DzLz-oSHGrd3U4, line 1: ReferenceError: dayjs is not defined
+1605796996380	Marionette	INFO	Stopped listening on port 42059
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1605797072924	geckodriver	INFO	Listening on 127.0.0.1:34337
+1605797072943	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEr4e9B"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605797092551	Marionette	INFO	Listening on port 35263
+1605797092678	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.flaschenpost.de/js/fp.bundle.min.js?v=DUrTZlNA_ruv0APTSypBQZO0_ZX52DzLz-oSHGrd3U4, line 1: ReferenceError: dayjs is not defined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+1605797109078	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1605862243198	geckodriver	INFO	Listening on 127.0.0.1:59367
+1605862244192	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1phzeL"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605862266178	Marionette	INFO	Listening on port 33765
+1605862266261	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.flaschenpost.de/js/fp.bundle.min.js?v=DUrTZlNA_ruv0APTSypBQZO0_ZX52DzLz-oSHGrd3U4, line 1: ReferenceError: dayjs is not defined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+1605862809606	geckodriver	INFO	Listening on 127.0.0.1:39711
+1605862810613	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUNAYYP"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605862824154	Marionette	INFO	Listening on port 33933
+1605862824175	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.flaschenpost.de/js/fp.bundle.min.js?v=DUrTZlNA_ruv0APTSypBQZO0_ZX52DzLz-oSHGrd3U4, line 1: ReferenceError: dayjs is not defined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+1605884488642	geckodriver	INFO	Listening on 127.0.0.1:59981
+1605884489632	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletfw1D9"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605884513100	Marionette	INFO	Listening on port 38293
+1605884513185	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.flaschenpost.de/js/fp.bundle.min.js?v=DUrTZlNA_ruv0APTSypBQZO0_ZX52DzLz-oSHGrd3U4, line 1: ReferenceError: dayjs is not defined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+1605884896796	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1605885026012	geckodriver	INFO	Listening on 127.0.0.1:50205
+1605885027025	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIEHpCz"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605885038495	Marionette	INFO	Listening on port 43325
+1605885038589	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.flaschenpost.de/js/fp.bundle.min.js?v=DUrTZlNA_ruv0APTSypBQZO0_ZX52DzLz-oSHGrd3U4, line 1: ReferenceError: dayjs is not defined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+1605885464466	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1605885541982	geckodriver	INFO	Listening on 127.0.0.1:59719
+1605885542968	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQkqDC1"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+Exiting due to channel error.
+Exiting due to channel error.
