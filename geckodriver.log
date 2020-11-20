@@ -150,3 +150,14 @@ webdriverClickElement@chrome://marionette/content/interaction.js:182:31
 console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
 Exiting due to channel error.
 Exiting due to channel error.
+1605891680329	geckodriver	INFO	Listening on 127.0.0.1:45929
+1605891681344	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegn3BdM"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605891694593	Marionette	INFO	Listening on port 43789
+1605891694641	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.flaschenpost.de/js/fp.bundle.min.js?v=DUrTZlNA_ruv0APTSypBQZO0_ZX52DzLz-oSHGrd3U4, line 1: ReferenceError: dayjs is not defined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined

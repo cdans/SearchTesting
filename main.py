@@ -11,14 +11,6 @@ from selenium.common.exceptions import TimeoutException
 
 
 
-delay = 15 # seconds 
-
-def waiting(driver):
-  try: 
-    WebDriverWait(driver, delay).until(EC.presence_of_element_located((By.ID, 'body'))) 
-    print ("Page is ready!") 
-  except TimeoutException: 
-    print ("Loading took too much time!")
 
 
 
@@ -26,14 +18,12 @@ def testSearch(lagerPLZ):
     # Starten und HTLP übergehen
     driver = webdriver.Firefox()
     driver.get('https://www.flaschenpost.de')
-    waiting(driver)
     zipcodeInput = driver.find_element_by_xpath('//*[@id="validZipcode"]')
     zipcodeInput.send_keys(lagerPLZ)
 
     zipcodeInputEnter = driver.find_element_by_xpath('/html/body/div[1]/div[2]/div/div/div/button')
     zipcodeInputEnter.click()
-    waiting(driver)
-
+    
     # csv einlesen (Suchbegriffe)
     top = pd.read_csv("testset.csv", header=0, usecols=['Suchbegriff'])
     print(top)
@@ -62,8 +52,7 @@ def testSearch(lagerPLZ):
             sleep(1)  # body.screenshot(i + '.png')
         x += 1
 
-
-# checkEmpty("21", "38440")
-testSearch("48151")
-testSearch("50667")
+#Suche für alle 3 Standorte laufen lassen
+#testSearch("48151")
+#testSearch("50667")
 testSearch("20249")
