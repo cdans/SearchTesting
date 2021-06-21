@@ -720,3 +720,141 @@ TimedPromise/<@chrome://marionette/content/sync.js:245:13
 TimedPromise@chrome://marionette/content/sync.js:230:10
 interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
 webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1606247349693	geckodriver	INFO	Listening on 127.0.0.1:38139
+1606247349714	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileipP1wm"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1606247365036	Marionette	INFO	Listening on port 39291
+1606247365110	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.flaschenpost.de/js/fp.bundle.min.js?v=DUrTZlNA_ruv0APTSypBQZO0_ZX52DzLz-oSHGrd3U4, line 1: ReferenceError: dayjs is not defined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+1606247399808	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1606247553354	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1606247632978	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1606248015376	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1606248038981	geckodriver	INFO	Listening on 127.0.0.1:35447
+1606248040001	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEuhM0R"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1606248057952	Marionette	INFO	Listening on port 38925
+1606248058021	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.flaschenpost.de/js/fp.bundle.min.js?v=DUrTZlNA_ruv0APTSypBQZO0_ZX52DzLz-oSHGrd3U4, line 1: ReferenceError: dayjs is not defined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+1606248098111	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1606248343710	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1606248459419	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1606248714674	geckodriver	INFO	Listening on 127.0.0.1:36389
+1606248715701	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecaVEp6"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1606248744464	Marionette	INFO	Listening on port 39591
+1606248748036	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.flaschenpost.de/js/fp.bundle.min.js?v=DUrTZlNA_ruv0APTSypBQZO0_ZX52DzLz-oSHGrd3U4, line 1: ReferenceError: dayjs is not defined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+1606248874873	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1606289548901	geckodriver	INFO	Listening on 127.0.0.1:56713
+1606289549872	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesK72kW"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1606289573479	Marionette	INFO	Listening on port 35781
+1606289573581	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.flaschenpost.de/js/fp.bundle.min.js?v=DUrTZlNA_ruv0APTSypBQZO0_ZX52DzLz-oSHGrd3U4, line 1: ReferenceError: dayjs is not defined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+1606289632031	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1606289654216	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1606289680615	Marionette	WARN	Limiting screen capture height to maximum allowed 32767 pixels
+1606289714588	Marionette	WARN	Limiting screen capture height to maximum allowed 32767 pixels
+1606289741328	Marionette	WARN	Limiting screen capture height to maximum allowed 32767 pixels
+1606289768351	Marionette	WARN	Limiting screen capture height to maximum allowed 32767 pixels
+1606293334092	geckodriver	INFO	Listening on 127.0.0.1:49053
+1606293335093	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0ECQeu"
+Starting X
+....5.. 4.. 3.. 2.. 1.. console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1606293355263	Marionette	INFO	Listening on port 38165
+1606293355344	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.flaschenpost.de/js/fp.bundle.min.js?v=9dQs0stDM8N3Sy8t6UW-1hjfS_AHi0m35vA93aXNzlk, line 1: ReferenceError: dayjs is not defined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+JavaScript error: https://www.flaschenpost.de/, line 1: TypeError: FPSHOP is undefined
+1606293399021	Marionette	WARN	Limiting screen capture height to maximum allowed 32767 pixels
+1606293428743	Marionette	WARN	Limiting screen capture height to maximum allowed 32767 pixels
+1606293454666	Marionette	WARN	Limiting screen capture height to maximum allowed 32767 pixels
+1606293478278	Marionette	WARN	Limiting screen capture height to maximum allowed 32767 pixels
+1606293506826	Marionette	WARN	Limiting screen capture height to maximum allowed 32767 pixels
+1606293533762	Marionette	WARN	Limiting screen capture height to maximum allowed 32767 pixels
+1606293560675	Marionette	WARN	Limiting screen capture height to maximum allowed 32767 pixels
+1606293584350	Marionette	WARN	Limiting screen capture height to maximum allowed 32767 pixels
+1606293609024	Marionette	WARN	Limiting screen capture height to maximum allowed 32767 pixels
+1606293633525	Marionette	WARN	Limiting screen capture height to maximum allowed 32767 pixels
+1606293661426	Marionette	WARN	Limiting screen capture height to maximum allowed 32767 pixels
+1606293688413	Marionette	WARN	Limiting screen capture height to maximum allowed 32767 pixels
+1606293715590	Marionette	WARN	Limiting screen capture height to maximum allowed 32767 pixels
+1606293746127	Marionette	WARN	Limiting screen capture height to maximum allowed 32767 pixels
+1606293771105	Marionette	WARN	Limiting screen capture height to maximum allowed 32767 pixels
+1606293797496	Marionette	WARN	Limiting screen capture height to maximum allowed 32767 pixels
+1606293821905	Marionette	WARN	Limiting screen capture height to maximum allowed 32767 pixels
+1606293848544	Marionette	WARN	Limiting screen capture height to maximum allowed 32767 pixels
+1606293874925	Marionette	WARN	Limiting screen capture height to maximum allowed 32767 pixels
+1606293901902	Marionette	WARN	Limiting screen capture height to maximum allowed 32767 pixels
+1606293925371	Marionette	WARN	Limiting screen capture height to maximum allowed 32767 pixels
+1606293950783	Marionette	WARN	Limiting screen capture height to maximum allowed 32767 pixels
+1606293975824	Marionette	WARN	Limiting screen capture height to maximum allowed 32767 pixels
+1606293999597	Marionette	WARN	Limiting screen capture height to maximum allowed 32767 pixels
+1606294028328	Marionette	WARN	Limiting screen capture height to maximum allowed 32767 pixels

@@ -40,7 +40,12 @@ def testSearch(lagerPLZ):
 
   # Suchen und Screenshots erstellen
   for i in top['Suchbegriff']:
-    print(lagerPLZ + "_" + str(x) + "_" + i + '.png')
+    # exakten Pfad des Fotos erstellen
+    if x < 10:
+      name = path + "/" + lagerPLZ + "/" + lagerPLZ + "_0" + str(x) + "_" + i + ".png"
+    else:
+      name = path + "/" + lagerPLZ + "/" + lagerPLZ + "_" + str(x) + "_" + i + ".png"
+    print(name)
     # Zusammensuchen der Objekte die benötigt werden
     searchIcon = driver.find_element_by_xpath('/html/body/div[1]/header/div[3]/div/div[2]/div[1]/div/div')
     searchTerm = driver.find_element_by_xpath('//*[@id="searchTerm"]')
@@ -62,15 +67,15 @@ def testSearch(lagerPLZ):
     element_png = body.screenshot_as_png
     sleep(3)
     #Screenshot speichern
-    with open(path + "/" + lagerPLZ + "/" + lagerPLZ + "_" + str(x) + "_" + i + ".png", "wb") as file:
+    with open(name, "wb") as file:
       file.write(element_png)
       sleep(1)  # body.screenshot(i + '.png')
     # Nummer des Screenshots inkrementieren
     x += 1
 
 #Suche für alle 3 Standorte laufen lassen
-#testSearch("48151")
+testSearch("48151")
 sleep(1)
-#testSearch("50667")
+testSearch("50667")
 sleep(1)
 testSearch("20249")
